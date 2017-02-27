@@ -36,6 +36,9 @@ A simple tool which enable you to know that a function look like in a really sho
 </li>
 </ul>
 <h3>&nbsp;</h3>
+<h2>Update History</h2>
+<h3>V1.1 Optimize the algorithm&nbsp;</h3>
+<p>&nbsp;</p>
 <h2>Extra Information</h2>
 <h3>Java Runtime Environment Download Link</h3>
 <h3>&nbsp;<a href="http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html">http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html</a></h3>
