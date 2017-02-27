@@ -4,6 +4,9 @@ A simple tool which enable you to know that a function look like in a really sho
 <h2><strong><span style="color: #000000;">Features included:</span></strong></h2>
 <ul>
 <li>
+<h3><strong>Open Source (MIT License )</strong></h3>
+</li>
+<li>
 <h3><span style="color: #000000;">Quick Startup</span></h3>
 </li>
 <li>
