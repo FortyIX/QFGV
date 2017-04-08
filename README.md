@@ -51,5 +51,6 @@ A simple tool which enable you to know that a function look like in a really sho
 <p>&nbsp;</p>
 <h2>Contact me&nbsp;</h2>
 <h3><a class="twitter-follow-button" href="https://twitter.com/FortyIX" data-size="large" data-show-count="false">Follow @FortyIX</a>&nbsp;at twitter</h3>
+
 <h3>or Email <em>fortyix.contact@gmail.com</em></h3>
-<script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
+
