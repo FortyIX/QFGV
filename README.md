@@ -14,12 +14,7 @@ A simple tool which enable you to know that a function look like in a really sho
 </li>
 <li>
 <h3><span style="color: #000000;">Color Customization</span></h3>
-</li>
-<li>
-<h3><span style="color: #000000;">small install size</span></h3>
-</li>
-<li>
-<h3><span style="color: #000000;">Run on Windows/Linux/ Mac os (JRE required)</span></h3>
+
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -34,9 +29,7 @@ A simple tool which enable you to know that a function look like in a really sho
 <li>
 <h3><span style="color: #000000;">&nbsp;.EXE build for Windows&nbsp;</span></h3>
 </li>
-<li>
-<h3><span style="color: #000000;">&nbsp;Eclipse Project&nbsp;</span></h3>
-</li>
+<
 </ul>
 <h3>&nbsp;</h3>
 <h2>Update History</h2>
@@ -49,8 +42,5 @@ A simple tool which enable you to know that a function look like in a really sho
 <h3>Java SDK Download link</h3>
 <h3><a href="http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html">http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html</a></h3>
 <p>&nbsp;</p>
-<h2>Contact me&nbsp;</h2>
-<h3><a class="twitter-follow-button" href="https://twitter.com/FortyIX" data-size="large" data-show-count="false">Follow @FortyIX</a>&nbsp;at twitter</h3>
 
-<h3>or Email <em>fortyix.contact@gmail.com</em></h3>
 
