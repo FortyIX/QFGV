@@ -1,4 +1,7 @@
 # Quick_Function_Graph_Viewer
+[![GitHub license](https://img.shields.io/github/license/FortyIX/Keats-Crawler.svg)](https://github.com/FortyIX/Keats-Crawler/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/FortyIX/Keats-Crawler.svg)](https://github.com/FortyIX/Keats-Crawler/issues) ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)  ![GitHub last commit](https://img.shields.io/badge/Dev-Fu%20Zhang-blue.svg)
+</br>
+</br>
 A simple tool which enable you to know that a function look like in a really short time by just typing the coeffcients in
 <h3><strong><span style="color: #000000;">&nbsp;</span></strong></h3>
 <h2><strong><span style="color: #000000;">Features included:</span></strong></h2>
