@@ -1,5 +1,5 @@
 # Quick_Function_Graph_Viewer
-[![GitHub license](https://img.shields.io/github/license/FortyIX/Keats-Crawler.svg)](https://github.com/FortyIX/Keats-Crawler/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/FortyIX/Keats-Crawler.svg)](https://github.com/FortyIX/Keats-Crawler/issues) ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)  ![GitHub last commit](https://img.shields.io/badge/Dev-Fu%20Zhang-blue.svg)
+[![GitHub license](https://img.shields.io/github/license/FortyIX/Quick_Polynomial_Function_Graph_Generator.svg)](https://github.com/FortyIX/Quick_Polynomial_Function_Graph_Generator/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/FortyIX/Quick_Polynomial_Function_Graph_Generator.svg)](https://github.com/FortyIX/Quick_Polynomial_Function_Graph_Generator/issues) ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)  ![GitHub last commit](https://img.shields.io/badge/Dev-Fu%20Zhang-blue.svg)
 </br>
 </br>
 A simple tool which enable you to know that a function look like in a really short time by just typing the coeffcients in
