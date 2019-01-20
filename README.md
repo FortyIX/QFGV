@@ -1,6 +1,5 @@
-# Quick_Function_Graph_Viewer
+# Quick Function Graph Viewer
 [![GitHub license](https://img.shields.io/github/license/FortyIX/Quick_Polynomial_Function_Graph_Generator.svg)](https://github.com/FortyIX/Quick_Polynomial_Function_Graph_Generator/blob/master/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/FortyIX/Quick_Polynomial_Function_Graph_Generator.svg)](https://github.com/FortyIX/Quick_Polynomial_Function_Graph_Generator/issues) ![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)  ![GitHub last commit](https://img.shields.io/badge/Dev-Fu%20Zhang-blue.svg) 
-
 <br/>
 QFGV stands for Quick function graph viewer, which helps you to visualise a polynomial functions within seconds by just typing in their cofficients 
 
