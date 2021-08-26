@@ -9,8 +9,6 @@ QFGV stands for Quick function graph viewer, which helps you to visualise a poly
 * Cross-Platform 
 
 
-## Support 
-contact@fuzhang.io
 
 ## Useful Links
 
